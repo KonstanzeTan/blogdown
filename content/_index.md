@@ -6,7 +6,7 @@ description: Hello, and welcome! I research the molecular causes of cardiovascul
 
 image_left: true
 images:
-- img/konstanze_1.jpg
+- img/konstanze_2.jpg
 show_action_link: true
 show_social_links: true
 subtitle: to search out a matter is the glory of kings 
