@@ -2,18 +2,16 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: Hello, and welcome! I research the molecular causes of cardiovascular disease. I focus on DNA methylation, a mark sitting atop our DNA, that's influenced by our lifestyles, genetics, and more. I am a graduate student the Lee Kong Chian School of Medicine, where I am learning how to apply various statistical and computational tools to interrogate, interpret and integrate clues from large datasets to understand how changes in DNA methylation can impact disease. When I am not working on my thesis, I simply enjoy writing about the many things that I’ve been privileged to learn and experience.
+
 image_left: true
 images:
-- img/revoir.jpg
+- img/konstanze_1.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
-text_align_left: false
+subtitle: to search out a matter is the glory of kings 
+
+text_align_left: true
 title: Konstanze Tan
 type: home
 ---
