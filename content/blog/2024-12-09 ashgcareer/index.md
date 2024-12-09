@@ -3,6 +3,7 @@ author: Konstanze Tan
 categories:
 - Career
 date: "2024-12-09"
+draft: false
 excerpt:  I attended a one-on-one coaching session with career coach Dora Esparza during the ASHG 2024 annual meeting in Denver. The session expanded my perspective on how enriching a job search journey can be and equipped me with practical tips to design my own. Who this might interest: Third and fourth-year STEM PhD students seeking to embark on a rewarding job search journey.
 layout: single
 subtitle: 
