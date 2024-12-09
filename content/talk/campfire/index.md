@@ -1,15 +1,15 @@
 ---
-title: "A campfire"
-subtitle: "Testing"
-excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
-date: 2021-01-12
-date_end: "2021-01-13"
+title: "Unravelling Dilated Cardiomyopathy: Integrative Analysis of Omics Data"
+subtitle: " "
+excerpt: "I spoke about in DCM heart tissue and the use of multiple omics datasets to understand their functional relevance."
+date: 2024-08-21
+date_end: "2024-08-23"
 featured: true
 show_post_time: false
-event: "rstudio::global(2021)"
-event_url: https://global.rstudio.com
-author: "Alison Hill"
-location: "Sydney, Australia"
+event: "PRECISE-IHCC 2024: From Cohorts to Clinics"
+event_url: https://www.preciseihcc-conference.sg
+author: "Konstanze Tan"
+location: "One Farrer Hotel, Singapore"
 draft: false
 # layout options: single, single-sidebar
 layout: single
@@ -18,12 +18,7 @@ categories:
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  name: slides
+  url: https://entuedu-my.sharepoint.com/:b:/r/personal/konstanz001_e_ntu_edu_sg/Documents/blog/2024-08-20%20preciseIHCC_DCM.pdf?csf=1&web=1&e=jbY0Nt
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
