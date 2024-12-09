@@ -11,10 +11,10 @@ categories:
 - career
 ---
 
-## Rendering mathematical equations
+A month ago, I attended the American Society of Human Genetics (ASHG) 2024 meetings in Denver, Colorado. These conferences are premier events in the genetics field and I have always looked forward presentations on groundbreaking research and the latest analytical tools. However, what excite me is the wealth of excellent resources available for early-career researchers who are at the brink of thesis completion and exploring career options. Where better to explore the diverse tracks available, than at a conference where the movers and shakers in genetics, industry partners and esteemed institutions alike, and ambitious young scientists at the brink of completing grad school come together to connect? 
 
-Examples from the [mathjax demo](https://www.mathjax.org/#demo).
-But they work with `katex` as well.
+I followed the [curated career itinerary](https://eppro02.ativ.me/web/planner.php?id=ASHG24&tabid=31) that included an exciting lineup of events. In this post, I’m going to share my takeaways a one-on-one career coaching session. I arrived at my Thursday morning appointment with my CV and a specific job that caught my interest while browsing ASHG’s [job portal](https://careers.ashg.org/employers/): the [Harvard Curriculum Fellow](https://curriculumfellows.hms.harvard.edu/) position (this is a teaching-focused postdoctoral role; if you are a Ph.D. student aiming for a teaching-heavy rather than a research-heavy postdoctoral career, check this out!) Although I had no intention to apply, having an actual job description that aligned with my skills and aspirations helped my career coach, [Dora Esparza](https://www.linkedin.com/in/dora-esparza-mnm-mapy-mpm-mhrm-mol-mba-66829923/), provide concrete and targeted recommendations for improving my CV. **(Pro tip 1: If attending a career coaching session, always send in an updated CV and your ideal job description in advance!)** From Dora’s extensive experience, I gained valuable and practicable tips on crafting a fulfilling and enjoyable job application process. **If you’re in your third or final year of PhD,** I believe that any sensing you’ve had of your skills and aspirations would be adequate to start **crafting a meaningful job search strategy** 
+
 
 ### Rmarkdown
 
