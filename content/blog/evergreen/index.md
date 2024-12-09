@@ -1,7 +1,7 @@
 ---
 title: "Crafting an enjoyable and fulfilling job search experience: Insights from an ASHG Career Coaching Session"
 subtitle: "Testing"
-excerpt: "Good stuff"
+excerpt: "Insights from a 1:1 career coaching sesssion at ASHG 2024 (Denver)."
 date: 2024-12-09
 author: "Konstanze Tan"
 draft: false
