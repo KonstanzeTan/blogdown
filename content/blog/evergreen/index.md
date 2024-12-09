@@ -2,13 +2,13 @@
 title: "Crafting an enjoyable and fulfilling job search experience: Insights from an ASHG Career Coaching Session"
 subtitle: "Testing"
 excerpt: "Good stuff"
-date: 2021-01-20
-author: "Alison Hill"
+date: 2024-12-09
+author: "Konstanze Tan"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- evergreen
+- career
 ---
 
 ## Rendering mathematical equations
