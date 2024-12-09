@@ -1,8 +1,8 @@
 ---
-author: Alison Hill & Eric Anderson
+author: Konstanze Tan
 categories:
-- Theme Features
-date: "2021-01-28"
+- Career
+date: "2024-12-09"
 draft: false
 excerpt: This theme offers built-in Font Awesome icons for organizing your collection
   of social accounts and their links. Use icons to help visitors find you wherever
