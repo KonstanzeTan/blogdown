@@ -1,14 +1,17 @@
 ---
-author: Konstanze Tan
+author: Alison Hill & Eric Anderson
 categories:
-- Career
-date: "2024-12-09"
+- Theme Features
+date: "2021-01-28"
 draft: false
-excerpt: During ASHG 2024, I attended a 1:1 coaching session with career coach Dora Esparza. The brief session equipped me with practical tips for designing a rewarding job search journey. Who this might interest: Third and fourth-year STEM PhD students seeking to embark on a rewarding job search journey.
+excerpt: This theme offers built-in Font Awesome icons for organizing your collection
+  of social accounts and their links. Use icons to help visitors find you wherever
+  you want to be found, and learn how to show or hide them in your site's header,
+  footer, homepage, about page, and contact form.
 layout: single
 subtitle: Social icons may appear on several pages throughout your site. Learn how
   to set them up, and control where they show up.
-title: Set up your socia
+title: Set up your social
 ---
 
 A month ago, I attended the American Society of Human Genetics (ASHG) 2024 meetings in Denver, Colorado. These conferences are premier events in the genetics field and I have always looked forward presentations on groundbreaking research and the latest analytical tools. However, what excite me is the wealth of excellent resources available for early-career researchers who are at the brink of thesis completion and exploring career options. Where better to explore the diverse tracks available, than at a conference where the movers and shakers in genetics, industry partners and esteemed institutions alike, and ambitious young scientists at the brink of completing grad school come together to connect? 
