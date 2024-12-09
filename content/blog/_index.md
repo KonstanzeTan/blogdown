@@ -1,7 +1,7 @@
 ---
-author: The R Markdown Team @RStudio
+author: Konstanze Tan
 cascade:
-  author: The R Markdown Team @RStudio
+  author: Konstanze Tan
   show_author_byline: true
   show_comments: true
   show_post_date: true
