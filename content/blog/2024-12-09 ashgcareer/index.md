@@ -4,7 +4,7 @@ categories:
 - Theme Features
 date: "2024-12-09"
 draft: false
-excerpt: This theme offers built-in Font Awesome icons for organizing your collection
+excerpt: I attended
   of social accounts and their links. Use icons to help visitors find you wherever
   you want to be found, and learn how to show or hide them in your site's header,
   footer, homepage, about page, and contact form.
