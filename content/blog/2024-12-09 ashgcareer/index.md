@@ -1,4 +1,14 @@
-# Crafting an enjoyable and fulfilling job search experience: Insights from an ASHG Career Coaching Session
+---
+author: Konstanze Tan
+categories:
+- Career
+date: "2024-12-09"
+draft: false
+excerpt:  I attended a one-on-one coaching session with career coach Dora Esparza during the ASHG 2024 annual meeting in Denver. The session expanded my perspective on how enriching a job search journey can be and equipped me with practical tips to design my own. Who this might interest: Third and fourth-year STEM PhD students seeking to embark on a rewarding job search journey.
+layout: single
+subtitle: 
+title: Crafting an enjoyable and fulfilling job search experience: Insights from an ASHG Career Coaching Session
+---
 
 A month ago, I attended the American Society of Human Genetics (ASHG) 2024 meetings in Denver, Colorado. These conferences are premier events in the genetics field and I have always looked forward presentations on groundbreaking research and the latest analytical tools. However, what excite me is the wealth of excellent resources available for early-career researchers who are at the brink of thesis completion and exploring career options. Where better to explore the diverse tracks available, than at a conference where the movers and shakers in genetics, industry partners and esteemed institutions alike, and ambitious young scientists at the brink of completing grad school come together to connect? 
 
