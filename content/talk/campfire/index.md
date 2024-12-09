@@ -5,7 +5,7 @@ categories:
 date: "2024-08-21"
 date_end: "2024-08-23"
 draft: false
-event: PRECISE-IHCC 2024: From Cohorts to Clinics
+event: PRECISE-IHCC 2024- From Cohorts to Clinics
 event_url: https://www.preciseihcc-conference.sg
 excerpt: I spoke about in DCM heart tissue and the use of multiple omics datasets to understand their functional relevance.
 featured: true
