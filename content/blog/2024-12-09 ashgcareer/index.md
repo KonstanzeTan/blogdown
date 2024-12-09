@@ -6,7 +6,7 @@ date: "2024-12-09"
 draft: false
 excerpt: During ASHG 2024, I attended a 1:1 coaching session with career coach Dora Esparza. The brief session equipped me with practical tips for designing a rewarding job search journey. Who this might interest: Third and fourth-year STEM PhD students seeking to embark on a rewarding job search journey.
 layout: single
-subtitle: 
+subtitle:  
 title: Set up your social
 ---
 
