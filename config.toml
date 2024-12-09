@@ -132,26 +132,26 @@ enableEmoji = true
     title = "Blog"
     url = "/blog/"
     weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
+ # [[menu.header]]
+  #  name = "Projects"
+  #  title = "Project Portfolio"
+  #  url = "/project/"
+  #  weight = 3
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+    weight = 3
+#  [[menu.header]]
+  #  name = "A collection"
+ #   title = "A collection"
+ #   url = "/collection/"
+ #   weight = 5
+#  [[menu.header]]
+ #   name = "Elements"
+ #   title = "Element Page"
+ #   url = "/elements/"
+  #  weight = 6
     
   # Configure footer  
 # [[menu.footer]]
@@ -163,7 +163,7 @@ enableEmoji = true
 #    name = "Contact"
 #    title = "Contact form"
 #    url = "/contact/"
-#    weight = 2
+#    weight = 4
 #  [[menu.footer]]
 #    name = "Contributors"
 #    title = "Contributors"
