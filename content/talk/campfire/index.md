@@ -1,29 +1,23 @@
 ---
-author: Alison Hill
+author: Konstanze Tan
 categories:
-- workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+- conferences
+date: "2024-08-21"
+date_end: "2024-08-23"
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
+event: PRECISE-IHCC 2024: From Cohorts to Clinics
+event_url: https://www.preciseihcc-conference.sg
+excerpt: I spoke about in DCM heart tissue and the use of multiple omics datasets to understand their functional relevance.
 featured: true
 layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-location: Sydney, Australia
+  name: Presentation slides
+  url: https://entuedu-my.sharepoint.com/:b:/r/personal/konstanz001_e_ntu_edu_sg/Documents/blog/2024-08-20%20preciseIHCC_DCM.pdf?csf=1&web=1&e=UXRJnJ
+location: Singapore 
 show_post_time: false
 subtitle: Testing
-title: A campfire
+title: Unravelling Dilated Cardiomyopathy: Integrative Analysis of Omics Data
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
