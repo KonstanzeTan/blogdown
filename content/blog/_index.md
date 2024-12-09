@@ -2,7 +2,7 @@
 author: Konstanze Tan
 title: Welcome to my blog
 thumbnail_left: true
-description: "I mainly post about conference takeaways, as well as concepts and tools that I have been tinkering with as part of my thesis work
+description: "I mainly post about conference takeaways, as well as concepts and tools that I have been tinkering with as part of my thesis work"
 layout: list-grid # default was list-sidebar
 show_author_byline: true
 show_button_links: false
