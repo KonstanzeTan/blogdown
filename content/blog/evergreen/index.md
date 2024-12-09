@@ -1,13 +1,13 @@
 ---
-author: Alison Hill
+author: Konstanze Tan
 categories:
-- evergreen
-date: "2021-01-20"
+- career
+date: "2024-12-09"
 draft: false
 excerpt: Good stuff
 layout: single
 subtitle: Testing
-title: An evergreen post
+title: Crafting an enjoyable and fulfilling job search experience: Insights from an ASHG Career Coaching Session
 ---
 
 ## Rendering mathematical equations
