@@ -4,10 +4,7 @@ categories:
 - Career
 date: "2024-12-09"
 draft: false
-excerpt: This theme offers built-in Font Awesome icons for organizing your collection
-  of social accounts and their links. Use icons to help visitors find you wherever
-  you want to be found, and learn how to show or hide them in your site's header,
-  footer, homepage, about page, and contact form.
+excerpt: I attended
 layout: single
 subtitle: Social icons may appear on several pages throughout your site. Learn how
   to set them up, and control where they show up.
