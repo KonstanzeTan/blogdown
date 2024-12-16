@@ -142,11 +142,11 @@ enableEmoji = true
     title = "Talks"
     url = "/talk/"
     weight = 3
-#  [[menu.header]]
-  #  name = "A collection"
- #   title = "A collection"
- #   url = "/collection/"
- #   weight = 5
+  [[menu.header]]
+    name = "A collection"
+    title = "A collection"
+    url = "/collection/"
+    weight = 4
 #  [[menu.header]]
  #   name = "Elements"
  #   title = "Element Page"
