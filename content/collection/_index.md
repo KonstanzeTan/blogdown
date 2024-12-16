@@ -4,8 +4,8 @@ cascade:
   layout: single-series
   sidebar:
     author: Alison Hill
-    description: "Here is a bundle of links to my favourite learning resources 
-      \nfor key methods and tools used in my thesis. I've also included my digests on them \n Hope you
+    description: "Here are bundles of links to my favourite learning resources 
+      \n organised by key methods and tools used in my thesis. I've also included my digests on them \n Hope you
      find something that you need.\n"
     show_author_byline: true
     show_post_date: true
