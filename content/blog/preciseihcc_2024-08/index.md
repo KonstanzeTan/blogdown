@@ -1,4 +1,15 @@
-# BLOG: PRECISE-IHCC reflections
+---
+title: "The Building Blocks of Sound Science: Insights from the PRECISE-IHCC conference"
+subtitle: " "
+excerpt: "Reflections from presenting at and attending the PRECISE-IHCC conference (2024; Singapore)."
+date: 2024-08-26
+author: "Konstanze Tan"
+draft: false
+# layout options: single, single-sidebar
+layout: single
+categories:
+- conference
+---
 
 Held from 21-23 Aug, the PRECISE-IHCC meeting was touted by many in attendance as the best showcase of all work that goes into setting up and running biobanks all across the world, and efforts to extract findings of clinical significance from the data gathered.
 
