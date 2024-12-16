@@ -1,4 +1,15 @@
-# Habits of great scientists: Reflections from my first multidisciplinary summit
+---
+title: "Habits of great scientists: Reflections from my first multidisciplinary summit"
+subtitle: " "
+excerpt: "Takeaways from Global Young Scientists Summit (2024; Singapore)."
+date: 2024-01-23
+author: "Konstanze Tan"
+draft: false
+# layout options: single, single-sidebar
+layout: single
+categories:
+- conference
+---
 
 Earlier this month, LKCMedicine gave me the privilege of attending the annual Global Young Scientists Summit (GYSS), organized by the [National Research Foundation, Singapore.](https://gyss.nrf.gov.sg/)  Although eager to engage with a luminous panel of eminent scientists—including Nobel laureates, Turing award, and Fields Medal winners —I’d been skeptical about the practical benefits that attending a multidisciplinary summit could bring. GYSS happened on the week right before a major presentation that was weighing heavily on my mind. Nonetheless, I wanted to honor the opportunity that was given to me by attending the sessions wholeheartedly, and I certainly did not regret that!  I didn’t hear much about methylation changes in chronic disease (which is the focus of my thesis), but I did glean loads of practical handles on conducting good, life-changing science. These have put me in better stead to do my research well, and to have fun while I’m at it! 
 
