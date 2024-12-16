@@ -23,5 +23,5 @@ show_post_date: false
 show_post_thumbnail: true
 subtitle: My favourite learning resources.
 thumbnail_left: false
-title: Create a Collection
+title: My learning corner
 ---
