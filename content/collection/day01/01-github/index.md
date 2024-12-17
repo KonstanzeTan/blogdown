@@ -30,11 +30,11 @@ For this tutorial, I have attempted to create an end-to-end pipeline for SMR ana
 
 In this practical, we will be using SMR to assess the evidence for a causal relationship between *CACNA2D4* and schizophrenia. *CACNA2D4* encodes the auxiliary subunit α2δ-4 of voltage-gated calcium channels and belongs to the [*CACN* family of genes](https://pubmed.ncbi.nlm.nih.gov/22488967/) that have been associated with brain circuits, cognitive function and neuropsychiatric disorders. [Knockout mice for *CACNA2D4](https://pubmed.ncbi.nlm.nih.gov/35353835/)* exhibit significant behavioral impairments relevant to cognitive and motor functions, suggesting a role in neuropsychiatric conditions.
 
-![theory-1.png](Tutorial%20Summary%20data-based%20Mendelian%20Randomisatio%2015ecdcf09b31807093d2cb638e8ec681/theory-1.png)
+![Hypothesis](theory-1.png)
 
 SMR can effectively investigate causal links and biological pathways between the *CACNA2D4* gene and schizophrenia by integrating data from genome-wide association studies (GWAS) and expression quantitative trait locus (eQTL) studies. GWAS identifies single nucleotide polymorphisms (SNPs) associated with schizophrenia, while eQTL studies reveal how these SNPs affect *CACNA2D4* expression across different genotypes. By leveraging genetic variants linked to both *CACNA2D4* and schizophrenia, researchers can assess whether variations in *CACNA2D4* expression might causally influence the risk of developing schizophrenia.
 
-![theory-2.png](Tutorial%20Summary%20data-based%20Mendelian%20Randomisatio%2015ecdcf09b31807093d2cb638e8ec681/theory-2.png)
+![SMR schematic](theory-2.png)
 
 ## **Step 1: Installing the SMR software**
 
