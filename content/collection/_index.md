@@ -21,7 +21,7 @@ layout: list-sidebar
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
-subtitle: My favourite learning resources.
+subtitle: My favourite learning resources, raw and digested.
 thumbnail_left: false
 title: My learning corner
 ---
