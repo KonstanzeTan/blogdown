@@ -85,7 +85,7 @@ smr-1.3.1-macos-arm64 --beqtl-summary westra_eqtl_hg19 --extract-probe myprobe.l
 
 The **`myprobe.list`** file contains the probe ID for *CACNA2D4*, ILMN_1696317, which is listed in the second column of the .epi file. Running the command extracts the eQTL data for *CACNA2D4* in BESD format.
 
-![eqtl_data.png](Tutorial%20Summary%20data-based%20Mendelian%20Randomisatio%2015ecdcf09b31807093d2cb638e8ec681/eqtl_data.png)
+![eqtl repository](eqtl_data.png)
 
 ⚠️ If you receive an error message or an empty output (zero bytes), ensure you are running the code in the same directory as your eQTL files.
 
@@ -142,7 +142,7 @@ smr-1.3.1-macos-arm64 --bfile ./g1000_eur --gwas-summary ./gwas_schizophrenia.ma
 
 ⚠️  The ‘file could not be found/opened’ error message is a common one at this step, and typically results from directory mis-specification. In case it helps with troubleshooting, the directory structure for this SMR analysis is as follows: 
 
-![smr_final_dir.png](Tutorial%20Summary%20data-based%20Mendelian%20Randomisatio%2015ecdcf09b31807093d2cb638e8ec681/smr_final_dir.png)
+![SMR repository final](smr_final_dir.png)
 
 ## Step 5: Visualising results
 
@@ -315,7 +315,7 @@ par(oldpar)
 
 The resulting plot visualizes genetic associations within a 1 Mb region centered on the SNP used as the instrumental variable (rs1044825) for the SMR analysis between *CACNA2D4* and schizophrenia. This SNP is highlighted in purple.
 
-![plot_annnotated.png](Tutorial%20Summary%20data-based%20Mendelian%20Randomisatio%2015ecdcf09b31807093d2cb638e8ec681/plot_annnotated.png)
+![annotated colocalisation plot](plot_annnotated.png)
 
 ## Next steps
 
