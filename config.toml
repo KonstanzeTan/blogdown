@@ -159,11 +159,11 @@ enableEmoji = true
 #    title = "License"
 #    url = "/license/"
 #    weight = 1
-#  [[menu.footer]]
-#    name = "Contact"
-#    title = "Contact form"
-#    url = "/contact/"
-#    weight = 4
+  [[menu.footer]]
+    name = "Contact"
+    title = "Contact form"
+    url = "/contact/"
+    weight = 4
 #  [[menu.footer]]
 #    name = "Contributors"
 #    title = "Contributors"
