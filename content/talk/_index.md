@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
+  A list of talks I have given on my research
 layout: list
 show_author_byline: true
 show_button_links: true
