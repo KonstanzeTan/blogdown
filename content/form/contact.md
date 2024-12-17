@@ -1,8 +1,8 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need
-  to do is add a valid recipient form-id to the front matter of this form page and
-  you're ready to receive submissions.
+description: Thank you for stopping by my Apéro, I hope you've taken away a thing or two!
+  If you'd like to start a conversation on anything you've seen or experienced here, I'd love
+  to hear about it.
 draft: false
 formspree_form_id: konstanz001@e.ntu.edu.sg
 layout: split-right
