@@ -147,6 +147,11 @@ enableEmoji = true
     title = "Learning"
     url = "/collection/"
     weight = 4
+  [[menu.header]]
+  name = "Contact"
+  title = "Contact"
+  url = "/contact/"
+  weight = 5
 #  [[menu.header]]
  #   name = "Elements"
  #   title = "Element Page"
@@ -159,11 +164,11 @@ enableEmoji = true
 #    title = "License"
 #    url = "/license/"
 #    weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 1
+#  [[menu.footer]]
+#    name = "Contact"
+#    title = "Contact form"
+#    url = "/contact/"
+#    weight = 1
 #  [[menu.footer]]
 #    name = "Contributors"
 #    title = "Contributors"
