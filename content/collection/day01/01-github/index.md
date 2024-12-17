@@ -1,24 +1,10 @@
 ---
 date: "2024-07-25"
 draft: false
-excerpt: You can share information about yourself with the community on GitHub by
-  creating a profile README. GitHub shows your profile README at the top of your profile
-  page.
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-subtitle: Put your best foot forward, first.
-title: A GitHub profile
+subtitle: A step-by-step guide to inferring causal relationships using publicly available summary statistics.
+title: Tutorial: Summary data-based Mendelian Randomisation
 weight: 1
 ---
-
-# Tutorial: Summary data-based Mendelian Randomisation
 
 Mendelian randomization (MR) has emerged as a powerful tool in epidemiology, enabling researchers to estimate causal relationships between modifiable risk factors and health outcomes using genetic variants. Often referred to as “Nature’s Randomised Control Trial”, MR is based on the principle that genetic variants associated with exposures are randomly distributed at conception. Consequently, using genetically-determined exposures can address confounding and reverse causation that plagues observational associations.
 
@@ -28,7 +14,7 @@ For this tutorial, I have attempted to create an end-to-end pipeline for SMR ana
 
 ## Biological background
 
-In this practical, we will be using SMR to assess the evidence for a causal relationship between *CACNA2D4* and schizophrenia. *CACNA2D4* encodes the auxiliary subunit α2δ-4 of voltage-gated calcium channels and belongs to the [*CACN* family of genes](https://pubmed.ncbi.nlm.nih.gov/22488967/) that have been associated with brain circuits, cognitive function and neuropsychiatric disorders. [Knockout mice for *CACNA2D4](https://pubmed.ncbi.nlm.nih.gov/35353835/)* exhibit significant behavioral impairments relevant to cognitive and motor functions, suggesting a role in neuropsychiatric conditions.
+In this practical, we will be using SMR to assess the evidence for a causal relationship between *CACNA2D4* and schizophrenia. *CACNA2D4* encodes the auxiliary subunit α2δ-4 of voltage-gated calcium channels and belongs to the [*CACN* family of genes](https://pubmed.ncbi.nlm.nih.gov/22488967/) that have been associated with brain circuits, cognitive function and neuropsychiatric disorders. [Knockout mice for *CACNA2D4*](https://pubmed.ncbi.nlm.nih.gov/35353835/)* exhibit significant behavioral impairments relevant to cognitive and motor functions, suggesting a role in neuropsychiatric conditions.
 
 ![Hypothesis](theory-1.png)
 
