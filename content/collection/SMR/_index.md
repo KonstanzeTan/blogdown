@@ -10,7 +10,7 @@ show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
 subtitle: All about Day 01 of 'Introduce Yourself Online'.
-title: SMR
+title: Summary data-based Mendelian Randomisation (SMR)
 weight: 2
 ---
 
