@@ -1,16 +1,16 @@
 ---
-author: Alison Hill
-date: "2021-01-25"
+author: Konstanze Tan
+date: "2024-07-25"
 description: |
-  Our first day together is all about building and publishing.
+  Conducting causal analyses using publicly available summary statistics.
 excerpt: null
 layout: single-series
-publishDate: "2021-01-22"
+publishDate: "2024-07-25"
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
 subtitle: All about Day 01 of 'Introduce Yourself Online'.
-title: Day 01
+title: SMR
 weight: 2
 ---
 
