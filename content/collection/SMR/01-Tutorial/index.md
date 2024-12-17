@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Summary data-based Mendelian Randomisation"
+title: "Tutorial"
 weight: 1
 subtitle: "A step-by-step guide to inferring causal relationships using publicly available summary statistics."
 date: 2024-07-25
