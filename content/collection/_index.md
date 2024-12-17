@@ -3,7 +3,7 @@ title: "Learning Corner"
 subtitle: "Resources and tutorials."
 description: |
   Here are bundles of links to my favourite learning resources 
-  organised by key methods and tools used in my thesis. \n Hope you
+  organised by key methods and tools used in my thesis. Hope you
   find something that you need.
 author: Konstanze Tan
 show_post_thumbnail: true
@@ -22,7 +22,7 @@ cascade:
     description: |
      Here are bundles of links to my favourite learning resources 
      organised by key methods and tools used in my thesis. Hope you
-     find something that you need.\n
+     find something that you need.
     show_author_byline: true
     show_post_date: true
     text_link_label: ""
