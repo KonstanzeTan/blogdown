@@ -1,27 +1,33 @@
 ---
+title: "Learning Corner"
+subtitle: "Resources and tutorials."
+description: |
+  Here are bundles of links to my favourite learning resources 
+  organised by key methods and tools used in my thesis. \n Hope you
+  find something that you need.
 author: Konstanze Tan
-cascade:
-  layout: single-series
-  sidebar:
-    author: Konstanze Tan
-    description: "Here are bundles of links to my favourite learning resources 
-      \n organised by key methods and tools used in my thesis. I've also included my digests on them \n Hope you
-     find something that you need.\n"
-    show_author_byline: true
-    show_post_date: true
-    show_sidebar_adunit: true
-    text_contents_label: On this page
-    text_link_label: ""
-    text_link_url: ""
-    text_series_label: Outline
-    title: Create a Collection
-description: "Sometimes you want a souped-up series- a bundle of related pages \nmeant
-  to be read in sequence. This section is like a blog series, \nminus the blog.\n"
-layout: list-sidebar
+show_post_thumbnail: true
+thumbnail_left: false # for list-sidebar only
 show_author_byline: false
 show_post_date: false
-show_post_thumbnail: true
-subtitle: My favourite learning resources, raw and digested.
-thumbnail_left: false
-title: My learning corner
+# for listing page layout
+layout: list-sidebar # list, list-sidebar
+
+# set up common front matter for all individual pages in series
+cascade:
+  layout: single-series 
+  sidebar:
+    title: "Learning Corner"
+    author: Konstanze Tan
+    description: |
+     Here are bundles of links to my favourite learning resources 
+     organised by key methods and tools used in my thesis. Hope you
+     find something that you need.\n
+    show_author_byline: true
+    show_post_date: true
+    text_link_label: ""
+    text_link_url: ""
+    show_sidebar_adunit: true # show ad container, first page only
+    text_series_label: "Outline" 
+    text_contents_label: "On this page" 
 ---
