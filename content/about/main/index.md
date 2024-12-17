@@ -7,8 +7,8 @@ number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
   One of my favourite quotes is, “To teach something is to learn it twice.” In this spirit, I write to deepen my understanding of the things I’ve heard and seen. I create tutorials to unravel complex concepts. And I share those that I think could make good conversation starters 🙂
-
-After trying out various platforms, the warm and welcoming aesthetic of this one really resonated with me; just looking at the template inspires creativity. It’s called Apéro— a French tradition of casual gatherings over apéritifs, snacks and anything in between. I hope you enjoy hanging out here, and take with you a thing or two!
+  
+  After trying out various platforms, the warm and welcoming aesthetic of this one really resonated with me; just looking at the template inspires creativity. It’s called Apéro— a French tradition of casual gatherings over apéritifs, snacks and anything in between. I hope you enjoy hanging out here, and take with you a thing or two!
 
 show_outro: true
 outro: |
