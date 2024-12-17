@@ -1,9 +1,10 @@
 ---
-date: "2024-07-25"
-draft: false
-subtitle: A step-by-step guide to inferring causal relationships using publicly available summary statistics.
-title: Tutorial: Summary data-based Mendelian Randomisation
+title: "Tutorial: Summary data-based Mendelian Randomisation"
 weight: 1
+subtitle: "A step-by-step guide to inferring causal relationships using publicly available summary statistics."
+date: 2024-07-25
+draft: false
+
 ---
 
 Mendelian randomization (MR) has emerged as a powerful tool in epidemiology, enabling researchers to estimate causal relationships between modifiable risk factors and health outcomes using genetic variants. Often referred to as “Nature’s Randomised Control Trial”, MR is based on the principle that genetic variants associated with exposures are randomly distributed at conception. Consequently, using genetically-determined exposures can address confounding and reverse causation that plagues observational associations.
